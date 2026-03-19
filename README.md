@@ -36,7 +36,6 @@ The dataset includes:
 * Text summarization systems
 ---
 ## Future Work
-
 * Implement NER model for Tamil
 * Add labeled entities to dataset
 * Build headline generation system
@@ -48,11 +47,8 @@ The dataset includes:
 * Rithanya
 * Manimekalai
 * Sanjana
-
 ---
-
-## 📌 Note
-
+## Note
 This repository currently contains the dataset.
 Model implementation and system development will be added in future updates.
 
